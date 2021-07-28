@@ -18,11 +18,13 @@ h2 {
   font-size: 2.5rem;
   font-weight: normal;
   padding-bottom: 10px;
+  margin: 26px;
 }
 
 h3 {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
+  margin: 22px;
 }
 
 p {
@@ -79,7 +81,8 @@ a:hover {
 
 .contact-message {
   width: 40%;
-  margin: 40px auto 60px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .copyright {
